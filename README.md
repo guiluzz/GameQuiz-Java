@@ -14,7 +14,7 @@
 - Abaixo estou deixando um print de como ficou o resultado do desenvolvimento da interface do jogo.
 
 
-- ![Interface Game Quiz](
+![Interface Game Quiz](https://github.com/guiluzz/GameQuiz-Java/blob/main/Assets/Interface.png)
 
   
 - Para a visualização de como ficou este projeto, fiz uma gravação de tela mostrando o funcionamento do jogo como um todo e todas as suas partes. Para acessar o vídeo clique no link abaixo e baixe o arquivo através do "view raw"!!
